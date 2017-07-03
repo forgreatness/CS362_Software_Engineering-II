@@ -1,3 +1,1 @@
-
-Hello my name is anand and this is my Assignment-1
-
+The projects directory should contain your onid folder
