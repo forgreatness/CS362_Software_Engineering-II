@@ -161,6 +161,7 @@ public class TimeTableTest {
         GregorianCalendar today = new GregorianCalendar(2, 4, 5);
         GregorianCalendar firstDay = new GregorianCalendar(2017, 12, 10);
         GregorianCalendar lastDay = new GregorianCalendar(2018, 12, 10);
+
         try {
             t.getApptRange(appts, lastDay, firstDay);
         } catch (DateOutOfRangeException e) {
@@ -172,6 +173,8 @@ public class TimeTableTest {
        t.permute(appts,pv);
 
     }
+
+
     }
 
 //add more unit tests as you needed

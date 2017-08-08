@@ -15,7 +15,7 @@ public class CalendarMain {
         //Internal Diagnostic Messages turned on when true
 		 boolean diagnose = true;
 
-		/** Collect	ion of all of the appointments for the calendar day */
+		/** Collection of all of the appointments for the calendar day */		
 		LinkedList<Appt> listAppts = new LinkedList<Appt>();
 		System.out.println("Calendar Main: \n" );
 		
