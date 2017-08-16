@@ -365,9 +365,9 @@ public class TimeTableTest {
 
 		int startHour=15;
 		int startMinute=30;
-		int startDay=8;  	//11
-		int startMonth=6; 	//4
-		int startYear=2017; 	//2017
+		int startDay=8;
+		int startMonth=6;
+		int startYear=2017;
 		String title="Birthday Party";
 		String description="This is my birthday party.";
 		// Create a valid appointment!
