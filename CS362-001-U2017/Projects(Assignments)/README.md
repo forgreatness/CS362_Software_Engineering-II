@@ -1,1 +1,1 @@
-Assignments are in the <u>kotharan</u> folder 
+Assignments are in the <b>kotharan</b> directory 
