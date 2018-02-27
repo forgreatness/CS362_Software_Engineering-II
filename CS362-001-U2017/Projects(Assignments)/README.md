@@ -1,1 +1,1 @@
-The projects directory should contain your onid folder
+Assignments are in the <u>kotharan</u> folder 
